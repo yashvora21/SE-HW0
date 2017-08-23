@@ -1,6 +1,6 @@
 {
   "name": "Hw0",
   "tagline": "",
-  "body": "### HW0 Submission Content\r\n\r\n### Moodle and Slack Profiles\r\n<b>Moodle Profile Link</b> : https://moodle-courses1617.wolfware.ncsu.edu/user/profile.php?id=115576\r\n<b>Slack Profile Link</b> : https://csc510-fall2017.slack.com/team/yvora\r\n\r\n### Git Tutorial Completion Screenshot\r\n![](https://github.ncsu.edu/yvora/HW0/blob/master/HW0%20-%20Git.png)\r\n\r\n### Hook Script\r\nThe contents of hook script created at : <b> .git/hooks/post-commit </b> \r\n```shell\r\n#!/bin/bash\r\n\r\n# Command to open a specific Web page on a Web Browser Post-Commit\r\nopen -a \"Safari\" \"https://pages.github.ncsu.edu/yvora/HW0/\"\r\n```\r\n\r\n### ScreenCast Video URL\r\nhttps://www.youtube.com",
+  "body": "### HW0 Submission Content\r\n\r\n### Moodle and Slack Profiles\r\n<b>Moodle Profile Link</b> : https://moodle-courses1617.wolfware.ncsu.edu/user/profile.php?id=115576\r\n<b>Slack Profile Link</b> : https://csc510-fall2017.slack.com/team/yvora\r\n\r\n### Git Tutorial Completion Screenshot\r\n![img](https://github.ncsu.edu/yvora/HW0/blob/master/HW0%20-%20Git.png)\r\n\r\n### Hook Script\r\nThe contents of hook script created at : <b> .git/hooks/post-commit </b> \r\n```shell\r\n#!/bin/bash\r\n\r\n# Command to open a specific Web page on a Web Browser Post-Commit\r\nopen -a \"Safari\" \"https://pages.github.ncsu.edu/yvora/HW0/\"\r\n```\r\n\r\n### ScreenCast Video URL\r\nhttps://www.youtube.com",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
