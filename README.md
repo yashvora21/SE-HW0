@@ -3,14 +3,14 @@
 This Repository consists of all the material pertaining to the Submission for HW0 of Software Engineering Class of Fall'17.
 
 # Created and managed by:
-**Name** : Yash Vora . 
-**Unity Id** : yvora . 
+**Name** : Yash Vora <br/>
+**Unity Id** : yvora <br/>
 **Student ID**: 200149815
 
 # Submission Contents:
 
 ### Moodle and Slack Profiles
-**Moodle Profile Link** : https://moodle-courses1617.wolfware.ncsu.edu/user/profile.php?id=115576 . 
+**Moodle Profile Link** : https://moodle-courses1617.wolfware.ncsu.edu/user/profile.php?id=115576 <br/>
 **Slack Profile Link** : https://csc510-fall2017.slack.com/team/yvora
 
 ### Git Tutorial Completion Screenshot
