@@ -26,4 +26,4 @@ open -a "Safari" "https://pages.github.ncsu.edu/yvora/HW0/"
 ```
 
 ### ScreenCast Video URL
-https://www.youtube.com
+https://youtu.be/bBgp-3xd04k
