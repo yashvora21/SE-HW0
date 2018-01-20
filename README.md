@@ -14,7 +14,7 @@ This Repository consists of all the material pertaining to the Submission for HW
 **Slack Profile Link** : https://csc510-fall2017.slack.com/team/yvora
 
 ### Git Tutorial Completion Screenshot
-![img](https://github.ncsu.edu/yvora/HW0/blob/master/HW0%20-%20Git.png?raw=true)
+![img](https://github.com/yashvora21/SE-HW0/blob/master/HW0%20-%20Git.png)
 
 ### Hook Script
 The contents of hook script created at : `.git/hooks/post-commit` 
